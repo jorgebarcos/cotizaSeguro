@@ -1,8 +1,4 @@
-## cotizaSeguro
-
-### Cotizador de seguro de auto
-
-#### Vanilla JS (JavaScript puro sin Framework o Librerías)
+# Cotizador de seguro de auto (Vanilla JS)
 
 - Existen 3 modelos, cada uno con precios distintos.
 - Cada año del auto su precio es menor en un 3%.
